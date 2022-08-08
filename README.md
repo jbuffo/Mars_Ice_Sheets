@@ -41,7 +41,7 @@ R=8.314;                  % Gas Constant (J/mol*K)
 g=3.711;                  % Gravity (m/s^2)  
 n1=3;                     % Power Law for Ice Deformation  
 f_0=0.00000003/31557600;  % Constant Coefficient (couldn't find actual value in papers - this is from my own fit to  
-                          %    Siple Dome data and b in m/s)  
+                          % Siple Dome data and b in m/s)  
 rho_1=350;                % Freshly Deposited Ice Density (Kg/m^3)  
 
 -------------------------------------------
