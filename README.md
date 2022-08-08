@@ -1,3 +1,4 @@
+<pre>
 # Mars_Ice_Sheets (unparallelized - working on creating parallel version)  
 Numerical model simulating the deposition, compaction, and thermal evolution of Martian ice sheets  
 
@@ -62,4 +63,4 @@ Liquid_Fraction - Final vertical liquid fraction profile throughout the ice shee
 
 -------------------------------------------
 Accompanying paper can be found at: https://www.sciencedirect.com/science/article/pii/S0012821X22003351  
-
+</pre>
