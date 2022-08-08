@@ -62,5 +62,12 @@ Liquid_Fraction - Final vertical liquid fraction profile throughout the ice shee
                   Nz is depth withing the ice sheet  
 
 -------------------------------------------
-Accompanying paper can be found at: https://www.sciencedirect.com/science/article/pii/S0012821X22003351 
+Accompanying paper (Buffo et al., 2022) can be found at: https://www.sciencedirect.com/science/article/pii/S0012821X22003351 
+
+-------------------------------------------
+Two sets of example input files have been included:
+
+Mars_Ice_Input_Mats_eq_restrict.mat   - 5 x 5 degree global Surface Temperature, Deposition, and Geothermal heat flux matrices from Buffo et al., 2022
+Gale_Crater.mat                       - 463 m resolution Surface Temperature, Deposition, and Geothermal heat flux matrices around Gale Crater - 
+                                        geothermal heatflux set to 60 mW/m^2 everywhere, deposition altered to lower altitude deposition
 </pre>
